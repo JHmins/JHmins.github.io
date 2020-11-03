@@ -52,7 +52,7 @@ pip install --upgrade azureml-sdk
 pip install xlrd
 ```
 
-Visual Studio Code 마켓플레이스(확장)에서 Python과 Azure Machine Learning 설치
+Visual Studio Code 마켓플레이스에서 Python과 Azure Machine Learning 설치
 <figure class="half">
     <img src="/images/RocketLaunch/python.jpg">
     <img src="/images/RocketLaunch/Azure.jpg">
@@ -60,7 +60,7 @@ Visual Studio Code 마켓플레이스(확장)에서 Python과 Azure Machine Lear
 Jupyter 커널과 Python 인터프리터가 모두 Anaconda 환경을 사용하도록 설정해야합니다.
 <figure>
     <img src="/images/RocketLaunch/same.jpg">
-    <figcaption>오른쪽 위의 Jupyter 커널과 왼쪽 아래의 Python 인터프리터가 같은 버전의 Anaconda 환경을 사용하고 있어야 합니다.(주황색으로 표시)</figcaption>
+    <figcaption>오른쪽 위의 Jupyter 커널과 왼쪽 아래의 Python 인터프리터가 같은 버전의 Anaconda 환경을 사용하고 있어야 합니다. (주황색으로 표시)</figcaption>
 </figure>
 
 ### 라이브러리 가져오기, 데이터 정리 및 조작
