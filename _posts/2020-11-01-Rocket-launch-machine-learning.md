@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "머신 러닝을 통한 로켓 발사 예측"
-excerpt: "Python과 Anaconda를 활용한 데이터 분석 활용"
+excerpt: "Python과 Anaconda를 이용한 데이터 분석 활용"
 tags: 
   - Python
   - Anaconda
@@ -18,8 +18,8 @@ https://www.anaconda.com/products/individual
 
 자신의 컴퓨터 환경에 맞는 아나콘다를 설치한 다음 Anaconda Prompt를 실행해줍니다.
 <figure class="half">
-    <img src="/images/RocketLaunch/anaconda1.jpg">
-    <img src="/images/RocketLaunch/anaconda2.jpg">
+    <a href="/images/RocketLaunch/anaconda1.jpg"><img src="/images/RocketLaunch/anaconda1.jpg"></a>
+    <a href="/images/RocketLaunch/anaconda2.jpg"><img src="/images/RocketLaunch/anaconda2.jpg"></a>
     <figcaption>Anaconda Prompt를 찾아서 실행</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ Visual Studio Code 마켓플레이스에서 Python과 Azure Machine Learning 설
 </figure>
 
 <figure>
-    <img src="/images/RocketLaunch/same.jpg">
+    <a href="/images/RocketLaunch/same.jpg"><img src="/images/RocketLaunch/same.jpg"></a>
     <figcaption>오른쪽 위의 Jupyter 커널과 왼쪽 아래의 Python 인터프리터가 모두 같은 버전의 <br> Anaconda 환경을 사용하고 있어야 합니다.(주황색으로 표시)</figcaption>
 </figure>
 
