@@ -45,7 +45,7 @@ conda activate myenv
 # AzureML-SDK 설치 및 업그레이드
 pip install --upgrade azureml-sdk
 ```
-* `AzureML-SDK` :  Azure Machine Learning 작업 영역에서 기계 학습 및 딥 러닝 모델을 빌드할 수 있게 해줌
+* `AzureML-SDK` :  Azure Machine Learning 작업 영역에서 기계 학습 및 딥 러닝 모델을 빌드할 수 있게 해줍니다.
 
 ```bash
 # Excel 파일을 읽을 수 있는 라이브러리 설치
