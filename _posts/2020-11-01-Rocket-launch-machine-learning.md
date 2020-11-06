@@ -13,7 +13,7 @@ tags:
 
 >'아나콘다(Anaconda)'는 여러가지 수학 및 과학 계산(데이터 과학, 기계 학습 애플리케이션, 대규모 데이터 처리, 예측 분석 등)을 포함하고 있는 패키지로 머신러닝(Machine learning)이나 데이터 분석(Data analysis)를 수월하게 처리하고자 할 때 많이 사용됩니다.
 
-### 아나콘다 다운로드 및 기초 환경 구성
+아나콘다 다운로드 및 기초 환경 구성\
 https://www.anaconda.com/products/individual
 
 자신의 컴퓨터 환경에 맞는 아나콘다를 설치한 다음 Anaconda Prompt를 실행해줍니다.
@@ -23,7 +23,7 @@ https://www.anaconda.com/products/individual
     <figcaption>Anaconda Prompt를 찾아서 실행</figcaption>
 </figure>
 
-다음과 같이 새로운 아나콘다 환경을 설치 및 구성
+### 새로운 아나콘다 환경 구성
 
 ```bash
 # conda create -n myenv: 이름 'myenv'의 새로운 conda 가상환경 생성
@@ -40,7 +40,6 @@ conda create -n myenv python=3.7 pandas numpy jupyter seaborn scikit-learn pydot
 # myenv 환경 실행
 conda activate myenv
 ```
-
 ```bash
 # AzureML-SDK 설치 및 업그레이드
 pip install --upgrade azureml-sdk
@@ -63,26 +62,122 @@ Visual Studio Code 마켓플레이스에서 Python과 Azure Machine Learning 설
     <figcaption>오른쪽 위의 Jupyter 커널과 왼쪽 아래의 Python 인터프리터가 모두 같은 버전의 <br> Anaconda 환경을 사용하고 있어야 합니다.(주황색으로 표시)</figcaption>
 </figure>
 
-### 라이브러리 가져오기, 데이터 정리 및 조작
+#
+
+### 라이브러리 가져오기, 데이터 읽기 및 호출
 라이브러리를 가져와 날씨 데이터를 가져와 정리하고, 기계 학습 모델을 만들고 테스트할 수 있도록 구성합니다.
 
 ```python
-# Pandas library is used for handling tabular data
+# Pandas는 표 데이터를 처리하는 데 사용
 import pandas as pd
-# NumPy is used for handling numerical series operations (addition, multiplication, and ...)
+# NumPy는 수열 연산 작업을 처리하는 데 사용(덧셈, 곱셈 ...)
 import numpy as np
-# Sklearn library contains all the machine learning packages we need to digest and extract patterns from the data
+
+# Sklearn 라이브러리는 데이터에서 패턴을 분석하고 추출하는 데 필요한 모든 머신러닝 패키지 포함
 from sklearn import linear_model, model_selection, metrics
 from sklearn.model_selection import train_test_split
 
-# Machine learning libraries used to build a decision tree
+# 의사 결정 트리를 작성하는 데 사용되는 머신 러닝 라이브러리
 from sklearn.tree import DecisionTreeClassifier
 from sklearn import tree
 
-# Sklearn's preprocessing library is used for processing and cleaning the data 
+# 데이터를 처리하고 정리하는 데 사용되는 Sklearn 전처리 라이브러리
 from sklearn import preprocessing
 
-# for visualizing the tree
+# 트리를 시각화하기 위해 사용
 import pydotplus
 from IPython.display import Image 
+```
+
+```python
+# pd.read_excel을 통해 데이터를 읽고 변수에 저장
+launch_data = pd.read_excel('RocketLaunchDataCompleted.xlsx')
+
+# .head() 함수를 통해 데이터의 상위 5개 행을 출력
+launch_data.head()
+```
+
+```python
+# .columns 함수를 통해 데이터의 모든 열을 볼 수 있음
+launch_data.columns
+```
+
+#
+
+### 데이터 정리 및 조작(1)
+올바르지 않거나 엉망으로 보이는 데이터를 가져와서 값을 변경하거나 삭제하여 정리하는 역활로, 일관되지 않은 데이터를 확인하거나 데이터에 null인 많을 경우 컴퓨터가 혼동을 일으키기 때문에 이러한 작업이 필요합니다.
+
+```python
+# .info() 함수를 통해 컬럼명, 데이터 값의 타입 등 데이터에 대한 전반적인 정보 표시
+launch_data.info()
+```
+전체적으로 훑어보다보면 일부 열에 데이터가 누락되어 있어 수정이 필요한 곳이 몇 군데가 보입니다.
+
+```python
+# 데이터가 누락되어 있는 곳을 다른 적절한 값으로 변경 
+## (Excel 파일에 저장된 데이터가 아니라 launch_data 변수에 저장된 데이터를 변경)
+
+# 'Launched' 열에 데이터가 누락된 곳은 누락 값을 N으로 지정
+launch_data['Launched?'].fillna('N',inplace=True)
+# 'Crewed or Uncrewed'(유인 or 무인) 정보가 없는 행의 경우 무인으로 가정
+launch_data['Crewed or Uncrewed'].fillna('Uncrewed',inplace=True)
+# '바람 방향'이 누락되면 unknown으로 표시
+launch_data['Wind Direction'].fillna('unknown',inplace=True)
+# '컨디션' 데이터가 누락되면 일반적인 날로 간주하고 fair를 사용
+launch_data['Condition'].fillna('Fair',inplace=True)
+# 다른 누락된 데이터의 경우에는 0 값을 사용
+launch_data.fillna(0,inplace=True)
+
+# 변경한 데이터의 상위 5개 행을 출력
+launch_data.head()
+```
+
+<figure class="half">
+    <a href="/images/RocketLaunch/before.jpg"><img src="/images/RocketLaunch/before.jpg"></a>
+    <a href="/images/RocketLaunch/after.jpg"><img src="/images/RocketLaunch/after.jpg"></a>
+    <figcaption>변경 전(왼쪽)과 변경 후(오른쪽) </figcaption>
+</figure>
+
+누락값을 정리한 후 컴퓨터가 계산을 하기 위해서,\
+계산은 텍스트보다는 숫자 입력이 적합하므로 모든 텍스트를 숫자로 변환해줍니다.
+
+```python
+## 데이터 정리 과정의 일환으로 텍스트 데이터를 숫자로 변환해야 하는 이유는 컴퓨터가 숫자만 이해하기 때문
+label_encoder = preprocessing.LabelEncoder()
+
+# 이 3개의 열에는 범주형 텍스트 정보가 있으므로, 이를 숫자로 변환해줄 필요가 있음
+launch_data['Crewed or Uncrewed'] = label_encoder.fit_transform(launch_data['Crewed or Uncrewed'])
+launch_data['Wind Direction'] = label_encoder.fit_transform(launch_data['Wind Direction'])
+launch_data['Condition'] = label_encoder.fit_transform(launch_data['Condition'])
+```
+
+데이터를 한 번 살펴보고 잘 정리되었는지를 확인합니다.
+```python
+launch_data.head()
+```
+
+<figure>
+    <a href="/images/RocketLaunch/datatheorem.jpg"><img src="/images/RocketLaunch/datatheorem.jpg"></a>
+    <figcaption> 정리된 데이터를 보면 'Crewed or Uncrewed'와 'Condition'의 값이 숫자로 바뀌었음을 알 수 있습니다.  </figcaption>
+</figure>
+
+이번에는 로켓 발사와 관련하여 필요하지 않거나 사용하지 않을 일부 열들을 제거하고,\
+앞으로 사용할 열들만 남겨두도록 합니다.
+
+```python
+# 관심 있는 출력(로켓 발사 성공 여부)을 따로 저장
+y = launch_data['Launched?']
+
+# 관심 없는 기둥 제거
+launch_data.drop(['Name','Date','Time (East Coast)','Location','Launched?','Hist Ave Sea Level Pressure','Sea Level Pressure','Day Length','Notes','Hist Ave Visibility', 'Hist Ave Max Wind Speed'],axis=1, inplace=True)
+
+# 그리고 나머지 데이터들은 입력 데이터로 저장
+X = launch_data
+```
+
+당연히 로켓 발사 성공 여부를 예측하기 위해서 컴퓨터는 X에 입력된 데이터를 중점으로 살피게 됩니다.
+
+```python
+# 기계 학습 알고리즘이 살펴볼 변수 목록:
+X.columns
 ```
