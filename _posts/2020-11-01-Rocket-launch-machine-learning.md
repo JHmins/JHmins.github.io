@@ -111,7 +111,7 @@ launch_data.columns
 # .info() 함수를 통해 컬럼명, 데이터 값의 타입 등 데이터에 대한 전반적인 정보 표시
 launch_data.info()
 ```
-전체적으로 훑어보다보면 일부 열에 데이터가 누락되어 있어 수정이 필요한 곳이 몇 군데가 보입니다.
+&nbsp; 전체적으로 훑어보다보면 일부 열에 데이터가 누락되어 있어 수정이 필요한 곳이 몇 군데가 보입니다.
 
 ```python
 # 데이터가 누락되어 있는 곳을 다른 적절한 값으로 변경 
@@ -223,7 +223,7 @@ X_train, X_test, y_train, y_test = train_test_split(X,y, test_size=0.2, random_s
 tree_model.fit(X_train,y_train)
 ```
 
-맞춤 착업이 끝났다면 가져온 라이브러리를 사용하여 모델을 쉽게 테스트할 수 있습니다.
+맞춤 착업이 끝나면 가져온 라이브러리를 사용하여 모델을 쉽게 테스트할 수 있습니다.
 * `predict()` 함수는 해당 모델로부터 새로운 데이터에 대한 예측값을 구하는 데 사용하는 함수로, predict() 함수에 X_test (테스트용을 예약한 입력 데이터의 20%) 를 제공합니다.
 ```python
 # 테스트 데이터에 대한 예측 수행
@@ -288,7 +288,7 @@ tree_graph_to_png(tree=tree_model, feature_names=X.columns.values,class_names=['
 코드를 실행하면 다음과 같은 이미지가 나옵니다.
 
 <figure>
-    <a href="/images/RocketLaunch/decisiontree.jpg"><img src="/images/RocketLaunch/decisiontree.jpg"></a>
+    <a href="/images/RocketLaunch/decisiontree.png"><img src="/images/RocketLaunch/decisiontree.png"></a>
 </figure>
 
 &nbsp; 이 간단한 트리를 시각화를 통해 데이터의 가장 중요한 기능이 `'Wind Speed at Launch Time'`이였다는 것을 알 수 있습니다. 풍속이 1.0보다 작거나 같은 경우 240개 샘플 중에서 191개가 발사가 없는 것으로 올바르게 추측되었습니다.\
