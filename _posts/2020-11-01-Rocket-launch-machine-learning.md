@@ -16,7 +16,7 @@ tags:
 아나콘다 다운로드 및 기초 환경 구성\
 https://www.anaconda.com/products/individual
 
-자신의 컴퓨터 환경에 맞는 아나콘다를 설치한 다음 Anaconda Prompt를 실행해줍니다.
+자신의 컴퓨터 환경에 맞는 아나콘다를 설치후 Anaconda Prompt를 실행해줍니다.
 <figure class="half">
     <a href="/images/RocketLaunch/anaconda1.jpg"><img src="/images/RocketLaunch/anaconda1.jpg"></a>
     <a href="/images/RocketLaunch/anaconda2.jpg"><img src="/images/RocketLaunch/anaconda2.jpg"></a>
@@ -174,7 +174,7 @@ launch_data.drop(['Name','Date','Time (East Coast)','Location','Launched?','Hist
 X = launch_data
 ```
 
-당연히 로켓 발사 성공 여부를 예측하기 위해서 컴퓨터는 X에 입력된 데이터를 중점으로 살펴보게 됩니다.
+&nbsp; 당연히 로켓 발사 성공 여부를 예측하기 위해서 컴퓨터는 X에 입력된 데이터를 중점으로 살펴보게 됩니다.
 
 ```python
 # 기계 학습 알고리즘이 살펴볼 변수 목록:
@@ -214,7 +214,7 @@ X_train, X_test, y_train, y_test = train_test_split(X,y, test_size=0.2, random_s
 
 > Random_state 를 지정하지 않은 경우  코드를 실행할 때마다 다른 (임의의) 분할이 발생합니다. 따라서 Random_state 를 주면  스플릿은 항상 동일하기 때문에 실험 재현성에 자주 사용됩니다.
 
-#
+---
 
 ### 기계 학습 모델 데이터 맞추기 및 테스트
 "데이터 맞춤" 작업은 기본적으로 모델이 학습하는 단계를 말합니다.
@@ -231,7 +231,7 @@ y_pred = tree_model.predict(X_test)
 print(y_pred)
 ```
 
-#
+---
 
 ### 기계 학습 모델 점수 매기기
 발사가 진행될지 여부를 예측할 때의 모델의 정확도를 확인하기 위해 사용하며,
@@ -252,7 +252,7 @@ tree_model.score(X_test,y_test)
 
 &nbsp; 따라서 정확성은 항상 의심해봐야 하며, 정밀도(Precision)와 재현율(Recall)을 분류지표로 같이 사용해주는 방법을 많이 사용합니다.
 
-#
+---
 
 ### 기계 학습 모델 시각화
 ```python
