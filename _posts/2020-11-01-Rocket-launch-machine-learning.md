@@ -65,7 +65,7 @@ Visual Studio Code 마켓플레이스에서 Python과 Azure Machine Learning 설
 ---
 
 ### 라이브러리 가져오기, 데이터 읽기 및 호출
-라이브러리를 가져와 날씨 데이터를 가져와 정리하고, 기계 학습 모델을 만들고 테스트할 수 있도록 구성합니다.
+&nbsp; 라이브러리를 가져와 날씨 데이터를 가져와 정리하고, 기계 학습 모델을 만들고 테스트할 수 있도록 구성합니다.
 
 ```python
 # Pandas는 표 데이터를 처리하는 데 사용
@@ -223,8 +223,9 @@ X_train, X_test, y_train, y_test = train_test_split(X,y, test_size=0.2, random_s
 tree_model.fit(X_train,y_train)
 ```
 
-맞춤 착업이 끝나면 가져온 라이브러리를 사용하여 모델을 쉽게 테스트할 수 있습니다.
+데이터 맞춤 착업이 끝난다면 가져온 라이브러리를 사용하여 모델을 쉽게 테스트할 수 있습니다.
 * `predict()` 함수는 해당 모델로부터 새로운 데이터에 대한 예측값을 구하는 데 사용하는 함수로, predict() 함수에 X_test (테스트용을 예약한 입력 데이터의 20%) 를 제공합니다.
+
 ```python
 # 테스트 데이터에 대한 예측 수행
 y_pred = tree_model.predict(X_test)
