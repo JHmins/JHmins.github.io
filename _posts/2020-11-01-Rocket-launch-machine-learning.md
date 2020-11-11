@@ -5,6 +5,8 @@ excerpt: "Python과 Anaconda를 이용한 머신 러닝 활용"
 tags: 
   - Python
   - Anaconda
+  - Azure
+  - Jupyter
   - Data science
   - Machine Learning
 ---
