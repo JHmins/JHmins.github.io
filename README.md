@@ -1,11 +1,10 @@
-## Working
-
+## Working on process
+original author
 This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
 
-## Preview   
-![screenshot of Halve](/images/halve-home-image.png)
+## Preview
 
-TO see a [orginal live version of Halve](http://taylantatli.github.io/Halve) hosted on GitHub.
+To see a [orginal live version of Halve](http://taylantatli.github.io/Halve) hosted on GitHub.
 
 ### Others
 - [Jekyll](http://jekyllrb.com/)
