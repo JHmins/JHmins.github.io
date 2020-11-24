@@ -1,4 +1,4 @@
-## Working on process
+## Working on Process
 주로 스스로 공부한 내용 정리(인공지능, 머신러닝 등)
 
 Gitpage : 2020/11/01 ~ 
