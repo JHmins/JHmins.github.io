@@ -78,8 +78,8 @@ cv2.imwrite(args["output"], image)
 ```
 
 <figure class="half">
-    <a href="/images/Argparse/input1.jpg"><img src="/images/Argparse/input1.jpg"></a>
-    <a href="/images/Argparse/output1.jpg"><img src="/images/Argparse/output1.jpg"></a>
+    <a href="/images/Argparse/input1.png"><img src="/images/Argparse/input1.png"></a>
+    <a href="/images/Argparse/output1.png"><img src="/images/Argparse/output1.png"></a>
     <figcaption>넣은 그림(왼쪽)과 나온 그림(오른쪽) </figcaption>
 </figure>
 
