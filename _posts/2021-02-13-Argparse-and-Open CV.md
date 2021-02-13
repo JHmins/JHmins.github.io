@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Argparse 명령줄 인수를 통한 간단한 Open CV 예제"
+title: "Argparse 명령줄 인수와 간단한 Open CV 예제"
 excerpt: "Argparse에 대한 간략한 설명과 간단한 이미지 윤곽 인식"
 tags: 
   - Python
@@ -8,7 +8,7 @@ tags:
   - Image recognition
   - Artificial Intelligence
 ---
-## Argparse 명령줄 인수를 통한 간단한 Open CV 예제
+## Argparse 명령줄 인수 간단한 Open CV 예제
 &nbsp; `Argparse` 모듈은 Python에서 많이 사용되는 명령줄 인수 구문 중 하나로, '<ins>인자값을 입력받고 이와 관련된 간단한 도움말과 사용법 작성이 가능합니다.</ins>' 그리고 만약에 사용자가 프로그램에 잘못된 인자를 줄 때 에러를 통해 알려주는 역활도 가능합니다.
 
 ### Argparse 간단한 설명
