@@ -15,7 +15,7 @@ tags:
 >'아나콘다(Anaconda)'는 여러가지 수학 및 과학 계산(데이터 과학, 기계 학습 애플리케이션, 대규모 데이터 처리, 예측 분석 등)을 포함하고 있는 패키지로 머신러닝(Machine learning)이나 데이터 분석(Data analysis)를 수월하게 처리하고자 할 때 많이 사용됩니다.
 
 아나콘다 다운로드 및 기초 환경 구성\
-https://www.anaconda.com/products/individual
+[https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)
 
 자신의 컴퓨터 환경에 맞는 아나콘다를 설치후 Anaconda Prompt를 실행해줍니다.
 <figure class="half">
