@@ -35,6 +35,9 @@ print ("안녕하세요 {}씨, 만나서 반갑습니다.".format(args["name"]))
     <figcaption> 터미널에서 한 번 실행시켜 봅시다. </figcaption>
 </figure>
 
+Argparse 모듈에 대해서 더욱 자세한 설명을 원한다면\
+[https://docs.python.org/ko/3/library/argparse.html](https://docs.python.org/ko/3/library/argparse.html)
+
 ### Argparse 명령줄 인수를 활용한 간단한 Open CV 예제
 
 &nbsp; Argparse 명령줄 인수의 특성 때문에 머신러닝이나 딥러닝을 하다보면 자주 보게 됩니다. 우선은 Argparse 명령줄 인수를 이용하여 이미지 윤곽을 찾아내는 간단한 Open CV 예제를 해보았습니다.
