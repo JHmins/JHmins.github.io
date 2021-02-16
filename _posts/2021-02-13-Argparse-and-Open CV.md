@@ -47,7 +47,7 @@ import argparse
 import imutils
 import cv2
 
-# 인수 구문 분석기를 구성하고 인수를 구문 분석합니다.
+# 인수 구문 분석기를 구성하고 인수를 구문 분석합니다.(위에 설명 확인)
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--input", required=True,
 	help="입력하려는 이미지 경로")
