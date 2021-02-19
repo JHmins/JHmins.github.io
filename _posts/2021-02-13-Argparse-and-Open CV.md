@@ -60,7 +60,7 @@ args = vars(ap.parse_args())
 # 디스크에서 입력 이미지를 로드합니다.
 image = cv2.imread(args["input"])
 
-# 이미지를 회색조, 흐리게 및 임계값 변환
+# 이미지를 회색조, 흐리게 및 임계값 
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 blurred = cv2.GaussianBlur(gray, (5,5), 0)
 thresh = cv2.threshold(blurred, 60, 255, cv2.THRESH_BINARY)[1]
