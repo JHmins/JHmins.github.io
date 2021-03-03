@@ -5,8 +5,7 @@ excerpt: "Open CV를 이용한 모양(도형) 감지"
 tags: 
   - Python
   - Open CV
-  - Numpy
-  - Color recognition
+  - Shape recognition
   - Artificial Intelligence
 ---
 ## Open CV 모양(도형) 감지
