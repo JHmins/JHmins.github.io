@@ -153,6 +153,6 @@ import sys
 import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
-# 앞에 있는 . 한 개 지움
+# 그리고 앞에 있는 . 한 개 지움
 from ShapeDetect.shapedetector import shapedetector
 ```
