@@ -143,10 +143,10 @@ for c in cnts:
 from .ShapeDetect.shapedetector import shapedetector
 ```
 
-&nbsp; 그럴 경우에는 코드를 상대 경로에서 절대 경로로 수정해주면됩니다.
+&nbsp; 그럴 경우에는 경로를 상대 경로에서 절대 경로로 수정해주면됩니다.
 
 ```python
-# 지금 현재 있는 코드에서 코드를 추가해줍니다.
+# 지금 현재 상태에서 코드를 추가해줍니다.
 
 # 현재 모듈의 절대경로를 알아내어 추가하는 방식
 import sys
