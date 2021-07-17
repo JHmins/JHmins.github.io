@@ -6,6 +6,7 @@ tags:
   - Python
   - Anaconda
   - Jupyter
+  - Pandas
   - Data science
   - Machine Learning
 ---
