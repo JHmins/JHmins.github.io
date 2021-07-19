@@ -33,7 +33,7 @@ my_report.show_html()
     <a href="/images/AutomatedML/terminal2.jpg"><img src="/images/AutomatedML/terminal2.jpg"></a>
 </figure>
 
-&nbsp; 몇 초만에, 자동으로 데이터 분석,비교가 된 리포트가 SWEETVIZ_REPORT.html 파일로 만들어져서 나옵니다.
+&nbsp; 몇 초만에 자동으로 데이터 분석,비교가 된 리포트가 SWEETVIZ_REPORT.html 파일로 만들어져서 나옵니다.
 
 <figure>
     <a href="/images/AutomatedML/report1.jpg"><img src="/images/AutomatedML/report1.jpg"></a>
