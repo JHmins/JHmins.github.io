@@ -4,6 +4,4 @@
 
 Gitpage : 2020/11/01 ~ <br>
 
-보통 일주일에 한 개씩 업로드 중 (시험공부 때문에 멈춤)
-
 https://jhmins.github.io/
