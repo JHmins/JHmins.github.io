@@ -19,5 +19,5 @@ tags:
 
 <figure>
     <a href="/images/Wise-Masterpiece/Jack_Spurling_1.jpg"><img src="/images/Wise-Masterpiece/Jack_Spurling_1.jpg"></a>
-    <figcaption> Great Tea Race of 1866 - Jack Spurling </figcaption>
+    <figcaption> Great Tea Race of 1866(Ariel and Taeping) - Jack Spurling </figcaption>
 </figure>
