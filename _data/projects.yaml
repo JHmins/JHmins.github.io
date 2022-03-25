@@ -6,17 +6,17 @@
 - title: Moon Jekyll Theme
   url: http://taylantatli.me/Moon
   image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-  completed: true
+  completed: false
 
 - title: Ramme Jekyll Theme
   url: http://taylantatli.me/Ramme
   image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
-  completed: true
+  completed: false
 
 - title: Daisy Pelican Theme
   url: http://taylantatli.me/Daisy-Pelican-Theme/
   image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
-  completed: true
+  completed: false
 
 - title: Block Icon Theme
   url: https://github.com/TaylanTatli/Block-Icon-Theme
