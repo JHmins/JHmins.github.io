@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "오늘 하루(3월 25일)의 명언과 명화"
+title: "오늘(3월 25일)의 명언과 명화"
 excerpt: "2022년 3월 25일(금) 명언과 명화 D-1"
 tags: 
   - Today
