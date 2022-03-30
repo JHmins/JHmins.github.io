@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 3월 29일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-3"
+title: "오늘의 명언과 명화 (2022년 3월 30일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-5"
 tags: 
   - Today
   - Wise saying
@@ -54,4 +54,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/William_Turner_1.jpg"><img src="/images/Wise-Masterpiece/William_Turner_1.jpg"></a>
     <figcaption> The Burning of the Houses of Parliament, 1835 - William Turner </figcaption>
+</figure>
+
+---
+
+## 2022년 3월 30일(수요일)의 명언과 명화
+
+> &nbsp; "새로운 일에 도전하다 보면 가끔 실수를 저지를 수 있다. 자신의 실수를 빨리 인정하고 다른 시도에 집중하는 것이 최선이다. -스티브 잡스 <br/>
+&nbsp; When you try a new job, you can sometimes make mistakes. It is best to admit your mistakes quickly and focus on other attempts. -Steve jobs
+
+<figure>
+    <a href="/images/Wise-Masterpiece/John_Constable_1.jpg"><img src="/images/Wise-Masterpiece/John_Constable_1.jpg"></a>
+    <figcaption> The Hay Wain, 1821 - John Constable </figcaption>
 </figure>
