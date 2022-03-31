@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 3월 30일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-5"
+title: "오늘의 명언과 명화 (2022년 3월 31일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-6"
 tags: 
   - Today
   - Wise saying
@@ -66,4 +66,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/John_Constable_1.jpg"><img src="/images/Wise-Masterpiece/John_Constable_1.jpg"></a>
     <figcaption> The Hay Wain, 1821 - John Constable </figcaption>
+</figure>
+
+---
+
+## 2022년 3월 31일(목요일)의 명언과 명화
+
+> &nbsp; "사람에게 가장 중요한 일은 실패했다고 낙심하지 않는 일이며, 성공했다고 기뻐 날뛰지 않는 일이다. -표도르 도스토옙스키 <br/>
+&nbsp; The most important thing for a person is not to be discouraged by failure, and not to be excited about success. -Fyodor Mikhailovich Dostoevskii
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Edouard_Manet_1.jpg"><img src="/images/Wise-Masterpiece/Edouard_Manet_1.jpg"></a>
+    <figcaption> The Bar at the Folies-Bergere, 1882 - Edouard Manet </figcaption>
 </figure>
