@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 3월 31일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-6"
+title: "오늘의 명언과 명화 (2022년 04월 01일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-7"
 tags: 
   - Today
   - Wise saying
@@ -13,7 +13,6 @@ tags:
 
 > &nbsp; 힘이 드는가? 하지만 오늘 걷지 않으면 내일은 뛰어야 한다. -카를레스 푸욜 <br/> 
 &nbsp; Are you tired? If you don’t walk today, you should run tomorrow. -Carles Puyol
-
 
 <figure>
     <a href="/images/Wise-Masterpiece/Jack_Spurling_1.jpg"><img src="/images/Wise-Masterpiece/Jack_Spurling_1.jpg"></a>
@@ -78,4 +77,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/Edouard_Manet_1.jpg"><img src="/images/Wise-Masterpiece/Edouard_Manet_1.jpg"></a>
     <figcaption> The Bar at the Folies-Bergere, 1882 - Edouard Manet </figcaption>
+</figure>
+
+---
+
+## 2022년 4월 01일(금요일)의 명언과 명화
+
+> &nbsp; "이기기 위해서는 한 번 이상 전쟁을 치러야 할 때도 있다. – 마가렛 대처 <br/>
+&nbsp; You may have to figth a battle more than once to win it. -Margaret Thatcher
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Eugene_Galien_Laloue_1.jpg"><img src="/images/Wise-Masterpiece/Eugene_Galien_Laloue_1.jpg"></a>
+    <figcaption> Place de Clichy - Eugene Galien Laloue </figcaption>
 </figure>
