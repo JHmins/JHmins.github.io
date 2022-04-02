@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 04월 01일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-7"
+title: "오늘의 명언과 명화 (2022년 04월 02일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-8"
 tags: 
   - Today
   - Wise saying
@@ -83,10 +83,22 @@ tags:
 
 ## 2022년 4월 01일(금요일)의 명언과 명화
 
-> &nbsp; "이기기 위해서는 한 번 이상 전쟁을 치러야 할 때도 있다. – 마가렛 대처 <br/>
+> &nbsp; "이기기 위해서는 한 번 이상 전쟁을 치러야 할 때도 있다. –마가렛 대처 <br/>
 &nbsp; You may have to figth a battle more than once to win it. -Margaret Thatcher
 
 <figure>
     <a href="/images/Wise-Masterpiece/Eugene_Galien_Laloue_1.jpg"><img src="/images/Wise-Masterpiece/Eugene_Galien_Laloue_1.jpg"></a>
     <figcaption> Place de Clichy - Eugene Galien Laloue </figcaption>
+</figure>
+
+---
+
+## 2022년 4월 02일(토요일)의 명언과 명화
+
+> &nbsp; "우리는 우리가 읽은 것으로부터 만들어진다. -마르틴 발저 <br/>
+&nbsp; We are made from what we read. -Martin Walser
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Gustave_Courbet_1.jpg"><img src="/images/Wise-Masterpiece/Gustave_Courbet_1.jpg"></a>
+    <figcaption> Les Casseurs de pierres, 1849 - Gustave Courbet </figcaption>
 </figure>
