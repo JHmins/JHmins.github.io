@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 04월 02일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-8"
+title: "오늘의 명언과 명화 (2022년 04월 04일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-9"
 tags: 
   - Today
   - Wise saying
@@ -101,4 +101,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/Gustave_Courbet_1.jpg"><img src="/images/Wise-Masterpiece/Gustave_Courbet_1.jpg"></a>
     <figcaption> Les Casseurs de pierres, 1849 - Gustave Courbet </figcaption>
+</figure>
+
+---
+
+## 2022년 4월 04일(월요일)의 명언과 명화
+
+> &nbsp; "인간은 인생의 방향을 결정할 규칙을 가지고 있어야 한다. -존 웨인 <br/>
+&nbsp; A man has to have a code, a way of life to live by -John Wayne
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Mikhail_Yuryevich_Kugach_1.jpg"><img src="/images/Wise-Masterpiece/Mikhail_Yuryevich_Kugach_1.jpg"></a>
+    <figcaption> A long Way, 2014 - Mikhail Yuryevich Kugach </figcaption>
 </figure>
