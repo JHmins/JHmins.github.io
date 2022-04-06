@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 04월 04일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-9"
+title: "오늘의 명언과 명화 (2022년 04월 06일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-10"
 tags: 
   - Today
   - Wise saying
@@ -113,4 +113,15 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/Mikhail_Yuryevich_Kugach_1.jpg"><img src="/images/Wise-Masterpiece/Mikhail_Yuryevich_Kugach_1.jpg"></a>
     <figcaption> A long Way, 2014 - Mikhail Yuryevich Kugach </figcaption>
+</figure>
+
+---
+
+## 2022년 4월 06(수요일)의 명언과 명화
+
+> &nbsp; "분노하지 말라. 분노는 지혜를 갉아먹는다. 증오하지 마라. 판단력이 흐려진다. -조조 <br/>
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Ma_Yuan_1.jpg"><img src="/images/Wise-Masterpiece/Ma_Yuan_1.jpg"></a>
+    <figcaption> 답가도(踏歌图) - 마원(马远) </figcaption>
 </figure>
