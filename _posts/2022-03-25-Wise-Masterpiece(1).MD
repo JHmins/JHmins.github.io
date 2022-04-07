@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 04월 06일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-10"
+title: "오늘의 명언과 명화 (2022년 04월 07일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-11"
 tags: 
   - Today
   - Wise saying
@@ -124,4 +124,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/Ma_Yuan_1.jpg"><img src="/images/Wise-Masterpiece/Ma_Yuan_1.jpg"></a>
     <figcaption> 답가도(踏歌图) - 마원(马远) </figcaption>
+</figure>
+
+---
+
+## 2022년 4월 07(목요일)의 명언과 명화
+
+> &nbsp; "자기 자신을 존중하되 자만하지 말라. 자신의 능력을 키우되 과신하지 말라. -탈무드 <br/>
+&nbsp; Respect yourself, but don't be arrogant. Build your skills, but don't be overconfident. -Talmud
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Frederick_Arthur_Bridgman_1.jpg"><img src="/images/Wise-Masterpiece/Frederick_Arthur_Bridgman_1.jpg"></a>
+    <figcaption> Halt In The Desert, 1922 - Frederick Arthur Bridgman </figcaption>
 </figure>
