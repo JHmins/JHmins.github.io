@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 04월 07일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-11"
+title: "오늘의 명언과 명화 (2022년 04월 08일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-12"
 tags: 
   - Today
   - Wise saying
@@ -136,4 +136,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/Frederick_Arthur_Bridgman_1.jpg"><img src="/images/Wise-Masterpiece/Frederick_Arthur_Bridgman_1.jpg"></a>
     <figcaption> Halt In The Desert, 1922 - Frederick Arthur Bridgman </figcaption>
+</figure>
+
+---
+
+## 2022년 4월 08(금요일)의 명언과 명화
+
+> &nbsp; "인생의 시기에 따라 목표가 다르고 전략이 다르다. -리처드 템플러 <br/>
+&nbsp; Different goals and strategies are different depending on the time of life. -Richard Templar
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Barend_Cornelis_Koekkoek_1.jpg"><img src="/images/Wise-Masterpiece/Barend_Cornelis_Koekkoek_1.jpg"></a>
+    <figcaption> Figures on a winter road, 1849 - Barend Cornelis Koekkoek </figcaption>
 </figure>
