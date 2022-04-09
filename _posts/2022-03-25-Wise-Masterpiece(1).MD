@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 04월 08일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-12"
+title: "오늘의 명언과 명화 (2022년 04월 09일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-13"
 tags: 
   - Today
   - Wise saying
@@ -148,4 +148,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/Barend_Cornelis_Koekkoek_1.jpg"><img src="/images/Wise-Masterpiece/Barend_Cornelis_Koekkoek_1.jpg"></a>
     <figcaption> Figures on a winter road, 1849 - Barend Cornelis Koekkoek </figcaption>
+</figure>
+
+---
+
+## 2022년 4월 09(토요일)의 명언과 명화
+
+> &nbsp; "바쁘고 안 바쁘고는 그리 중요하지 않다. 문제는 무엇을 위해 뱌쁘냐는 것이다. -헨리 데이비드 소로 <br/>
+&nbsp; Busy or not busy doesn't really matter. The question is, what is it for. -Henry David Thoreau
+
+<figure>
+    <a href="/images/Wise-Masterpiece/George_Henry_Durrie_1.jpg"><img src="/images/Wise-Masterpiece/George_Henry_Durrie_1.jpg"></a>
+    <figcaption> Winter_Time On The Farm, (circa 1862-63) - George Henry Durrie </figcaption>
 </figure>
