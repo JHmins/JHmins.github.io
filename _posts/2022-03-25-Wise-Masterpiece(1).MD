@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 04월 09일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-13"
+title: "오늘의 명언과 명화 (2022년 04월 12일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-14"
 tags: 
   - Today
   - Wise saying
@@ -160,4 +160,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/George_Henry_Durrie_1.jpg"><img src="/images/Wise-Masterpiece/George_Henry_Durrie_1.jpg"></a>
     <figcaption> Winter_Time On The Farm, (circa 1862-63) - George Henry Durrie </figcaption>
+</figure>
+
+---
+
+## 2022년 4월 12(화요일)의 명언과 명화
+
+> &nbsp; "사람의 성품 중에 가장 뿌리깊은 것은 교만이다. 지금 자신이 누구에게나 겸손할 수 있다고 자랑하는 것도 하나의 교만이다. 겸손을 의식하는 동안에는 아직 교만의 뿌리가 남아있는 증거이다. -필립 체스터필드 <br/>
+&nbsp; Pride is the most deeply rooted in a person's character. It is also a form of pride to brag that you can be humble to anyone right now. As long as you are conscious of humility, it is evidence that the roots of pride still remain. -Philip Chesterfield
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Frederick_Stuart_Church_1.jpg"><img src="/images/Wise-Masterpiece/Frederick_Stuart_Church_1.jpg"></a>
+    <figcaption> The Polar Bear Dance, 1915 - Frederick Stuart Church </figcaption>
 </figure>
