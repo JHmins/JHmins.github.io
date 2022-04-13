@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 04월 12일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-14"
+title: "오늘의 명언과 명화 (2022년 04월 13일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-15"
 tags: 
   - Today
   - Wise saying
@@ -172,4 +172,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/Frederick_Stuart_Church_1.jpg"><img src="/images/Wise-Masterpiece/Frederick_Stuart_Church_1.jpg"></a>
     <figcaption> The Polar Bear Dance, 1915 - Frederick Stuart Church </figcaption>
+</figure>
+
+---
+
+## 2022년 4월 13(수요일)의 명언과 명화
+
+> &nbsp; "두뇌는 최상의 기능을 수행하기 위해 정기적으로 도전받을 필요가 있다. -프랭크 놀 <br/>
+&nbsp; The brain needs to be regularly challenged in order to attain its uttermost performance. -Frank Knoll
+
+<figure>
+    <a href="/images/Wise-Masterpiece/John_Bond_Francisco_1.jpg"><img src="/images/Wise-Masterpiece/John_Bond_Francisco_1.jpg"></a>
+    <figcaption> Dry Dock, - John Bond Francisco </figcaption>
 </figure>
