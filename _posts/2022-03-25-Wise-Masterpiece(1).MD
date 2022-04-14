@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 04월 13일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-15"
+title: "오늘의 명언과 명화 (2022년 04월 14일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-16"
 tags: 
   - Today
   - Wise saying
@@ -184,4 +184,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/John_Bond_Francisco_1.jpg"><img src="/images/Wise-Masterpiece/John_Bond_Francisco_1.jpg"></a>
     <figcaption> Dry Dock, - John Bond Francisco </figcaption>
+</figure>
+
+---
+
+## 2022년 4월 14(목요일)의 명언과 명화
+
+> &nbsp; "정상은 내려오고 나서야 비로소 내 것이 된다. 그 전에는 진정 오른 것이 아니다. - 조지 말로리 <br/>
+&nbsp; The summit becomes mine only when it comes down. Before that, it wasn't really up. -George Mallory
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Johannes_Tavenraat_1.jpg"><img src="/images/Wise-Masterpiece/Johannes_Tavenraat_1.jpg"></a>
+    <figcaption> Mountain Landscape in Tirol with Chamois, 1858 - Johannes Tavenraat </figcaption>
 </figure>
