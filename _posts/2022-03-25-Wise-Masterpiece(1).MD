@@ -209,3 +209,15 @@ tags:
     <a href="/images/Wise-Masterpiece/Jules_Ferdinand_Medard_1.jpg"><img src="/images/Wise-Masterpiece/Jules_Ferdinand_Medard_1.jpg"></a>
     <figcaption> Roses Et Raisins - Jules Ferdinand Medard </figcaption>
 </figure>
+
+---
+
+## 2022년 4월 17(일요일)의 명언과 명화
+
+> &nbsp; 내 자신의 무식을 아는 것은 지식으로의 첫걸음이다. -조지 고든 바이런 <br/>
+&nbsp;  Knowing my own ignorance is the first step to knowledge. -George Gordon Byron
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Samuel_Halpert_1.jpg"><img src="/images/Wise-Masterpiece/Samuel_Halpert_1.jpg"></a>
+    <figcaption> The Flatiron Building, 1919 - Samuel Halpert </figcaption>
+</figure>
