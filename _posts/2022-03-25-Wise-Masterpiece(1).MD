@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 04월 15일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-17"
+title: "오늘의 명언과 명화 (2022년 04월 17일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-18"
 tags: 
   - Today
   - Wise saying
