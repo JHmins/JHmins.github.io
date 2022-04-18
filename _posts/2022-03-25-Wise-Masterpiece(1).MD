@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 04월 17일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-18"
+title: "오늘의 명언과 명화 (2022년 04월 18일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-19"
 tags: 
   - Today
   - Wise saying
@@ -220,4 +220,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/Samuel_Halpert_1.jpg"><img src="/images/Wise-Masterpiece/Samuel_Halpert_1.jpg"></a>
     <figcaption> The Flatiron Building, 1919 - Samuel Halpert </figcaption>
+</figure>
+
+---
+
+## 2022년 4월 18(월요일)의 명언과 명화
+
+> &nbsp; 겨울이 없다면 봄은 그리 즐겁지 않을 것이다. 때때로 고난을 맛보지 않으면 성공이 그리 반갑지 않을 것이다. -앤 브레드스트릿 <br/>
+&nbsp;  Without winter, spring would not be so pleasant. Success will not be very welcome unless you experience hardship sometimes. -Anne Bradstreet
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Henry_Roderick_Newman_1.jpg"><img src="/images/Wise-Masterpiece/Henry_Roderick_Newman_1.jpg"></a>
+    <figcaption> Cherry Blossom, 1898 - Henry Roderick Newman </figcaption>
 </figure>
