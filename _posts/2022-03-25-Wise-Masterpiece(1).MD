@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 04월 18일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-19"
+title: "오늘의 명언과 명화 (2022년 04월 19일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-20"
 tags: 
   - Today
   - Wise saying
@@ -203,7 +203,7 @@ tags:
 ## 2022년 4월 15(금요일)의 명언과 명화
 
 > &nbsp; 모든 꽃은 피는 시기가 있다. -켄 페티 <br/>
-&nbsp;  Every flower blooms in its own time. -Ken Petti
+&nbsp; Every flower blooms in its own time. -Ken Petti
 
 <figure>
     <a href="/images/Wise-Masterpiece/Jules_Ferdinand_Medard_1.jpg"><img src="/images/Wise-Masterpiece/Jules_Ferdinand_Medard_1.jpg"></a>
@@ -215,7 +215,7 @@ tags:
 ## 2022년 4월 17(일요일)의 명언과 명화
 
 > &nbsp; 내 자신의 무식을 아는 것은 지식으로의 첫걸음이다. -조지 고든 바이런 <br/>
-&nbsp;  Knowing my own ignorance is the first step to knowledge. -George Gordon Byron
+&nbsp; Knowing my own ignorance is the first step to knowledge. -George Gordon Byron
 
 <figure>
     <a href="/images/Wise-Masterpiece/Samuel_Halpert_1.jpg"><img src="/images/Wise-Masterpiece/Samuel_Halpert_1.jpg"></a>
@@ -227,9 +227,21 @@ tags:
 ## 2022년 4월 18(월요일)의 명언과 명화
 
 > &nbsp; 겨울이 없다면 봄은 그리 즐겁지 않을 것이다. 때때로 고난을 맛보지 않으면 성공이 그리 반갑지 않을 것이다. -앤 브레드스트릿 <br/>
-&nbsp;  Without winter, spring would not be so pleasant. Success will not be very welcome unless you experience hardship sometimes. -Anne Bradstreet
+&nbsp; Without winter, spring would not be so pleasant. Success will not be very welcome unless you experience hardship sometimes. -Anne Bradstreet
 
 <figure>
     <a href="/images/Wise-Masterpiece/Henry_Roderick_Newman_1.jpg"><img src="/images/Wise-Masterpiece/Henry_Roderick_Newman_1.jpg"></a>
     <figcaption> Cherry Blossom, 1898 - Henry Roderick Newman </figcaption>
+</figure>
+
+---
+
+## 2022년 4월 19(화요일)의 명언과 명화
+
+> &nbsp; 일을 즉각 처리하는 것보다, 일을 바르게 하는 것이 낫습니다. -조지 소로스 <br/>
+&nbsp; It is better to do it right than right away. -George Soros
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Achille_Solari_1.jpg"><img src="/images/Wise-Masterpiece/Achille_Solari_1.jpg"></a>
+    <figcaption> Grape pickers above Sorrento, Vesuvius beyond - Achille Solari </figcaption>
 </figure>
