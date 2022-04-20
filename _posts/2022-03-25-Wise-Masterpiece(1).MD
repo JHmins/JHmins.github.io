@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 04월 19일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-20"
+title: "오늘의 명언과 명화 (2022년 04월 20일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-21"
 tags: 
   - Today
   - Wise saying
@@ -244,4 +244,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/Achille_Solari_1.jpg"><img src="/images/Wise-Masterpiece/Achille_Solari_1.jpg"></a>
     <figcaption> Grape pickers above Sorrento, Vesuvius beyond - Achille Solari </figcaption>
+</figure>
+
+---
+
+## 2022년 4월 20(수요일)의 명언과 명화
+
+> &nbsp; 주식투자에 뛰어들려면 기꺼이 위험을 감수하겠다는 정신적 준비운동이 필요하다. 확실한 수익을 보장해주는 주식시장은 세상 어느 곳에도 없다. -앙드레 코스톨라니 <br/>
+&nbsp; To jump into stock investing, you need to be mentally prepared to take risks. There is no stock market anywhere in the world that guarantees a sure return. -Andre Kostolany
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Alfred_Friedländer_1.jpg"><img src="/images/Wise-Masterpiece/Alfred_Friedländer_1.jpg"></a>
+    <figcaption> The Town Under Siege - Alfred Friedländer </figcaption>
 </figure>
