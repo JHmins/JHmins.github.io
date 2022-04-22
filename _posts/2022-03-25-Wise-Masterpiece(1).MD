@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 04월 20일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-21"
+title: "오늘의 명언과 명화 (2022년 04월 22일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-22"
 tags: 
   - Today
   - Wise saying
@@ -256,4 +256,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/Alfred_Friedländer_1.jpg"><img src="/images/Wise-Masterpiece/Alfred_Friedländer_1.jpg"></a>
     <figcaption> The Town Under Siege - Alfred Friedländer </figcaption>
+</figure>
+
+---
+
+## 2022년 4월 22(금요일)의 명언과 명화
+
+> &nbsp; 나의 한계는 나의 포기하고 싶은 마음이 결정해버리는 것이다. 포기하지 않는 한, 그곳에 한계는 없다. -손 마사요시 <br/>
+&nbsp; My limit is determined by my desire to give up. As long as you don't give up, there are no limits. -Masayoshi Son
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Ohara_Koson_1.jpg"><img src="/images/Wise-Masterpiece/Ohara_Koson_1.jpg"></a>
+    <figcaption> Pheasant on cherry blossom branch, (circa 1887 - 1945) - Ohara Koson </figcaption>
 </figure>
