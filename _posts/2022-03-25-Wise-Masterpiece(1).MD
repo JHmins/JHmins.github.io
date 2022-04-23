@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 04월 22일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-22"
+title: "오늘의 명언과 명화 (2022년 04월 23일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-23"
 tags: 
   - Today
   - Wise saying
@@ -268,4 +268,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/Ohara_Koson_1.jpg"><img src="/images/Wise-Masterpiece/Ohara_Koson_1.jpg"></a>
     <figcaption> Pheasant on cherry blossom branch, (circa 1887 - 1945) - Ohara Koson </figcaption>
+</figure>
+
+---
+
+## 2022년 4월 23(토요일)의 명언과 명화
+
+> &nbsp; 꿈은 실현된다. 실현 가능성이 없으면 자연이 우리가 꿈을 갖도록 부추기지 않을 것이다. -존 업다이크 <br/>
+&nbsp; Dreams come true. Without realization, nature will not encourage us to dream. -John Updike
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Nakagawa_Hachiro_1.jpg"><img src="/images/Wise-Masterpiece/Nakagawa_Hachiro_1.jpg"></a>
+    <figcaption> Cherry Blossom Festival, 1903 - Nakagawa Hachiro </figcaption>
 </figure>
