@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 04월 23일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-23"
+title: "오늘의 명언과 명화 (2022년 04월 24일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-24"
 tags: 
   - Today
   - Wise saying
@@ -280,4 +280,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/Nakagawa_Hachiro_1.jpg"><img src="/images/Wise-Masterpiece/Nakagawa_Hachiro_1.jpg"></a>
     <figcaption> Cherry Blossom Festival, 1903 - Nakagawa Hachiro </figcaption>
+</figure>
+
+---
+
+## 2022년 4월 24(일요일)의 명언과 명화
+
+> &nbsp; 행동은 모든 성공의 가장 기초적인 핵심이다. -파블로 피카소 <br/>
+&nbsp; Action is the most fundamental key to any success. -Pablo Picasso
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Ingeborg_Eggertz_1.jpg"><img src="/images/Wise-Masterpiece/Ingeborg_Eggertz_1.jpg"></a>
+    <figcaption> Cherry Blossom - Ingeborg Eggertz </figcaption>
 </figure>
