@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 04월 24일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-24"
+title: "오늘의 명언과 명화 (2022년 08월 30일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-25"
 tags: 
   - Today
   - Wise saying
@@ -292,4 +292,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/Ingeborg_Eggertz_1.jpg"><img src="/images/Wise-Masterpiece/Ingeborg_Eggertz_1.jpg"></a>
     <figcaption> Cherry Blossom - Ingeborg Eggertz </figcaption>
+</figure>
+
+---
+
+## 2022년 8월 30(화요일)의 명언과 명화
+
+> &nbsp; 비 오는 날은 집에서 차를 마시며 좋은 책을 읽으며 보내야 한다. -빌 워터슨 <br/>
+&nbsp; Rainy days should be spent at home with a cup of tea and a good book. -Bill Watterson
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Dmitri_Danish_1.jpg"><img src="/images/Wise-Masterpiece/Dmitri_Danish_1.jpg"></a>
+    <figcaption> Before the Rain, Saint Augustine - Dmitri Danish </figcaption>
 </figure>
