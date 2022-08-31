@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 08월 30일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-25"
+title: "오늘의 명언과 명화 (2022년 08월 31일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-26"
 tags: 
   - Today
   - Wise saying
@@ -304,4 +304,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/Dmitri_Danish_1.jpg"><img src="/images/Wise-Masterpiece/Dmitri_Danish_1.jpg"></a>
     <figcaption> Before the Rain, Saint Augustine - Dmitri Danish </figcaption>
+</figure>
+
+---
+
+## 2022년 8월 31(수요일)의 명언과 명화
+
+> &nbsp; 성급함 때문에 당하는 큰 손해의 하나는 우습게도 무척 많은 시간이 걸린다는 것이다. -G. K. 체스터턴 <br/>
+&nbsp; One of the great Disadvantages of hurry is that it takes such a long time. -Gilbert Keith Chesterton
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Elijah_Walton_1.jpg"><img src="/images/Wise-Masterpiece/Elijah_Walton_1.jpg"></a>
+    <figcaption> Rednal Wood, Winter - Elijah Walton </figcaption>
 </figure>
