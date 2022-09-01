@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 08월 31일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-26"
+title: "오늘의 명언과 명화 (2022년 09월 01일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-27"
 tags: 
   - Today
   - Wise saying
@@ -316,4 +316,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/Elijah_Walton_1.jpg"><img src="/images/Wise-Masterpiece/Elijah_Walton_1.jpg"></a>
     <figcaption> Rednal Wood, Winter - Elijah Walton </figcaption>
+</figure>
+
+---
+
+## 2022년 9월 01(목요일)의 명언과 명화
+
+> &nbsp; 누구든지 좋은 기회가 없었던 것은 아니다. 다만 그것을 적시에 포착할 수 없었을 뿐이다. -앤드류 카네기 <br/>
+&nbsp; Everyone had a good chance, just couldn't capture it in time. -Andrew Carnegie
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Ernest_Karl_Eugen_Koerner_1.jpg"><img src="/images/Wise-Masterpiece/Ernest_Karl_Eugen_Koerner_1.jpg"></a>
+    <figcaption>Night view over the Bosphorus, 1874 - Ernest Karl Eugen Koerner </figcaption>
 </figure>
