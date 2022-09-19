@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 09월 01일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-27"
+title: "오늘의 명언과 명화 (2022년 09월 19일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-28"
 tags: 
   - Today
   - Wise saying
@@ -327,5 +327,18 @@ tags:
 
 <figure>
     <a href="/images/Wise-Masterpiece/Ernest_Karl_Eugen_Koerner_1.jpg"><img src="/images/Wise-Masterpiece/Ernest_Karl_Eugen_Koerner_1.jpg"></a>
-    <figcaption>Night view over the Bosphorus, 1874 - Ernest Karl Eugen Koerner </figcaption>
+    <figcaption> Night view over the Bosphorus, 1874 - Ernest Karl Eugen Koerner </figcaption>
 </figure>
+
+---
+
+## 2022년 9월 19(월요일)의 명언과 명화
+
+> &nbsp; 한 때는 불가능하다고 생각한 것이 결국에는 가능한 것이 된다. -K. 오브라이언 <br/>
+&nbsp; What was once thought impossible eventually becomes possible. -Conan Christopher O'Brien
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Jae-Sam-Lee_1.jpg"><img src="/images/Wise-Masterpiece/Jae-Sam-Lee_1.jpg"></a>
+    <figcaption> Moonlight 월인천강지호, 2022 - Jae Sam Lee </figcaption>
+</figure>
+
