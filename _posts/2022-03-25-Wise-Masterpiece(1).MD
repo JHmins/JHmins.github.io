@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 09월 19일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-28"
+title: "오늘의 명언과 명화 (2022년 09월 20일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-29"
 tags: 
   - Today
   - Wise saying
@@ -342,3 +342,14 @@ tags:
     <figcaption> Moonlight 월인천강지호, 2022 - Jae Sam Lee </figcaption>
 </figure>
 
+---
+
+## 2022년 9월 20(화요일)의 명언과 명화
+
+> &nbsp; 한 권의 책을 읽음으로써 자신의 삶에서 새 시대를 본 사람이 너무나 많다. 책은 우리의 기적을 설명하고 새로운 기적을 드러낼 기회를 위해 존재한다. 현재 우리가 어디선가 말할 수 없는 것들을 책을 통해 발견할 수 있다. -헨리 데이비드 소로 <br/>
+&nbsp; How many a man has dated a new era in his life from the reading of a book. The book exists for us perchance which will explain our miracles and reveal new ones. The at present unutterable things we may find somewhere uttered. -Henry David Thoreau
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Jules_Coignet_1.jpg"><img src="/images/Wise-Masterpiece/Jules_Coignet_1.jpg"></a>
+    <figcaption> View of the Sea(Boat at the Sea) - Jules Coignet </figcaption>
+</figure>
