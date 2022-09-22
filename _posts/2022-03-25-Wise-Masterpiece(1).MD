@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 09월 20일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-29"
+title: "오늘의 명언과 명화 (2022년 09월 22일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-30"
 tags: 
   - Today
   - Wise saying
@@ -352,4 +352,16 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/Jules_Coignet_1.jpg"><img src="/images/Wise-Masterpiece/Jules_Coignet_1.jpg"></a>
     <figcaption> View of the Sea(Boat at the Sea) - Jules Coignet </figcaption>
+</figure>
+
+---
+
+## 2022년 9월 22(목요일)의 명언과 명화
+
+> &nbsp; 당신의 운명이 결정되는 것은 결심하는 그 순간이다. -앤서니 라빈스 <br/>
+&nbsp; It is in your moments of decision that your destiny is shaped. -Tony Robbins
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Edward_Moran_1.jpg"><img src="/images/Wise-Masterpiece/Edward_Moran_1.jpg"></a>
+    <figcaption> Ships at Sunset(New York Harbor Sunset), (circa 1872) - Edward Moran </figcaption>
 </figure>
