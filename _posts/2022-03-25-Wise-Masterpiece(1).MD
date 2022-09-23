@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 09월 22일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-30"
+title: "오늘의 명언과 명화 (2022년 09월 23일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-31"
 tags: 
   - Today
   - Wise saying
@@ -364,4 +364,15 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/Edward_Moran_1.jpg"><img src="/images/Wise-Masterpiece/Edward_Moran_1.jpg"></a>
     <figcaption> Ships at Sunset(New York Harbor Sunset), (circa 1872) - Edward Moran </figcaption>
+</figure>
+
+---
+
+## 2022년 9월 23(금요일)의 명언과 명화
+
+> &nbsp; 당신 스스로가 하지 않는다면, 아무도 당신의 운명을 개선시켜 주지 않을 것이다. -베르톨트 브레히트  <br/>
+&nbsp; No one will improve your destiny, If you don't do it yourself. -Bertolt Brecht
+<figure>
+    <a href="/images/Wise-Masterpiece/Mary_Cassatt_1.jpg"><img src="/images/Wise-Masterpiece/Mary_Cassatt_1.jpg"></a>
+    <figcaption> In the Box, 1879 - Mary Cassatt </figcaption>
 </figure>
