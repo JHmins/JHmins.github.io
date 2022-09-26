@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 09월 23일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-31"
+title: "오늘의 명언과 명화 (2022년 09월 26일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-32"
 tags: 
   - Today
   - Wise saying
@@ -375,4 +375,15 @@ tags:
 <figure>
     <a href="/images/Wise-Masterpiece/Mary_Cassatt_1.jpg"><img src="/images/Wise-Masterpiece/Mary_Cassatt_1.jpg"></a>
     <figcaption> In the Box, 1879 - Mary Cassatt </figcaption>
+</figure>
+
+---
+
+## 2022년 9월 26(월요일)의 명언과 명화
+
+> &nbsp; 있는 것은 오직 목표 뿐이다. 길은 없다. 우리가 길이라고 부르는 것은 망설임에 불과하다. -카프카  <br/>
+&nbsp; There is only a goal. There is no way. What we call the way is nothing but a hesitation -Franz Kafka
+<figure>
+    <a href="/images/Wise-Masterpiece/Enrica_Giorgi_1.jpg"><img src="/images/Wise-Masterpiece/Enrica_Giorgi_1.jpg"></a>
+    <figcaption> At the Crossroads, 1984 - Enrica Giorgi </figcaption>
 </figure>
