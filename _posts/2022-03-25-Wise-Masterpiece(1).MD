@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "오늘의 명언과 명화 (2022년 09월 26일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-32"
+title: "오늘의 명언과 명화 (2022년 10월 05일 Update) "
+excerpt: "나를 위한 명언과 명화 모음집 D-33"
 tags: 
   - Today
   - Wise saying
@@ -346,7 +346,7 @@ tags:
 
 ## 2022년 9월 20(화요일)의 명언과 명화
 
-> &nbsp; 한 권의 책을 읽음으로써 자신의 삶에서 새 시대를 본 사람이 너무나 많다. 책은 우리의 기적을 설명하고 새로운 기적을 드러낼 기회를 위해 존재한다. 현재 우리가 어디선가 말할 수 없는 것들을 책을 통해 발견할 수 있다. -헨리 데이비드 소로 <br/>
+> &nbsp; **한 권의 책을 읽음으로써 자신의 삶에서 새 시대를 본 사람이 너무나 많다.** 책은 우리의 기적을 설명하고 새로운 기적을 드러낼 기회를 위해 존재한다. 현재 우리가 어디선가 말할 수 없는 것들을 책을 통해 발견할 수 있다. -헨리 데이비드 소로 <br/>
 &nbsp; How many a man has dated a new era in his life from the reading of a book. The book exists for us perchance which will explain our miracles and reveal new ones. The at present unutterable things we may find somewhere uttered. -Henry David Thoreau
 
 <figure>
@@ -382,8 +382,19 @@ tags:
 ## 2022년 9월 26(월요일)의 명언과 명화
 
 > &nbsp; 있는 것은 오직 목표 뿐이다. 길은 없다. 우리가 길이라고 부르는 것은 망설임에 불과하다. -카프카  <br/>
-&nbsp; There is only a goal. There is no way. What we call the way is nothing but a hesitation -Franz Kafka
+&nbsp; There is only a goal. There is no way. What we call the way is nothing but a hesitation. -Franz Kafka
 <figure>
     <a href="/images/Wise-Masterpiece/Enrica_Giorgi_1.jpg"><img src="/images/Wise-Masterpiece/Enrica_Giorgi_1.jpg"></a>
     <figcaption> At the Crossroads, 1984 - Enrica Giorgi </figcaption>
+</figure>
+
+---
+
+## 2022년 10월 05(수요일)의 명언과 명화
+
+> &nbsp; 못할 것 같은 일도 시작해 놓으면 이루어진다. -채근담(菜根譚) <br/>
+&nbsp; Things that you can't do will come true if you start. -채근담(菜根譚)
+<figure>
+    <a href="/images/Wise-Masterpiece/Hong_Sung_Mo_1.jpg"><img src="/images/Wise-Masterpiece/Hong_Sung_Mo_1.jpg"></a>
+    <figcaption> 사자바위와 누에섬 - 홍성모 화백 </figcaption>
 </figure>
