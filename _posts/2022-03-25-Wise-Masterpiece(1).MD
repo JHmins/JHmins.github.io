@@ -413,3 +413,16 @@ tags:
     <a href="/images/Wise-Masterpiece/Johann_Georg_Platzer_1.jpg"><img src="/images/Wise-Masterpiece/Johann_Georg_Platzer_1.jpg"></a>
     <figcaption> Samson’s revenge, (circa 1730-1740) - Johann Georg Platzer </figcaption>
 </figure>
+
+
+---
+
+## 2022년 10월 07(금요일)의 35번째 명언과 명화
+
+> &nbsp; 겨울은 영원하지 않고, 봄은 자기 차례를 건너뛰지 않는다. -핼 볼랜드 <br/>
+&nbsp; No winter lasts forever, No spring skips its turn. -Hal Borland
+
+<figure>
+    <a href="/images/Wise-Masterpiece/Hong_Sung_Mo_2.jpeg"><img src="/images/Wise-Masterpiece/Hong_Sung_Mo_2.jpeg"></a>
+    <figcaption> 개암사의 봄 - 홍성모 화백 </figcaption>
+</figure>
