@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "오늘의 명언과 명화 (2022년 10월 06일 Update) "
-excerpt: "나를 위한 명언과 명화 모음집 D-34"
+excerpt: "나를 위한 명언과 명화 모음집 D-35"
 tags: 
   - Today
   - Wise saying
