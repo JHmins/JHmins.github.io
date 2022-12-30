@@ -21,8 +21,8 @@ tags:
 &nbsp; 국내 사이트들 같은 경우에는 OKYY, DEVOCEAN, 팔만코딩경 같이 여러 개발자 커뮤니티들이 많으며 백준 알고리즘, 프로그래머스 등 관련 코딩 테스트 사이트들도 잘 활성화되어 있는 편입니다. 물론 저도 이러한 국내 개발자 커뮤니티와 코딩 테스트 사이트들을 이용하는 편이지만, 저는 주로 영어 공부도 같이 할겸 HackerRank, freeCodeCamp, LeetCode들을 이용하는 편입니다. 덤으로 데이터 공부를 위한 Kaggle, 해외 온라인 강좌 플랫폼 Coursera도 이용하지만, 이는 다음 번에 자세히 다루겠습니다.
 
 <figure class="half">
-    <a href="/images/InterviewBit-SignUp/InterviewBit1.jpg"><img src="/images/InterviewBit-SignUp/InterviewBit1.jpg"></a>
-    <a href="/images/InterviewBit-SignUp/InterviewBit2.jpg"><img src="/imagesInterviewBit-SignUp/InterviewBit2.jpg"></a>
+    <a href="/images/InterviewBit-SignUp/interviewBit1.jpg"><img src="/images/InterviewBit-SignUp/interviewBit1.jpg"></a>
+    <a href="/images/InterviewBit-SignUp/interviewBit2.jpg"><img src="/imagesInterviewBit-SignUp/interviewBit2.jpg"></a>
     <figcaption> InterviewBit(왼쪽) 그리고 제공하는 면접 자료들(오른쪽) </figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ tags:
     <a href="/images/InterviewBit-SignUp/m1.jpg"><img src="/images/InterviewBit-SignUp/m1.jpg"></a>
 </figure>
 
-&nbsp; 메일을 확인해보니 `InterviewBi`t는 인도, 미국, 캐나다 이 3군데 나라에서만 접근 가능하고, 다른 나라들은 후에 차차 업데이트 준비중이라고 답장이 왔습니다. 지금와서 생각해보면 해외 사이트이고, 아직 국내외로 널리 알려지지 않아 사용하기 힘들수도 있다는 생각이 들지만, 그 때의 저는 기껏 찾아서 좋은 사이트를 찾았다 싶어 가입하려고 하니, 접근 불가라는... 되게 억울하고 분통한 마음을 담은 답변을 고객 센터에 보내 버리고 말았습니다 ㅎㅎ (・ω<) ~ 
+&nbsp; 메일을 확인해보니 `InterviewBit`는 인도, 미국, 캐나다 이 3군데 나라에서만 접근 가능하고, 다른 나라들은 후에 차차 업데이트 준비중이라고 답장이 왔습니다. 지금와서 생각해보면 해외 사이트이고, 아직 국내외로 널리 알려지지 않아 사용하기 힘들수도 있다는 생각이 들지만, 그 때의 저는 기껏 찾아서 좋은 사이트를 찾았다 싶어 가입하려고 하니, 접근 불가라는... 되게 억울하고 분통한 마음을 담은 답변을 고객 센터에 보내 버리고 말았습니다 ㅎㅎ (・ω<) ~ 
 
 답변을 보낸후 한창을 멍때리다가 그냥 원래 하던곳에서나 해야지라는 생각이 들 때즘, 고객 센터에서 답장이 다시 왔습니다!
 
@@ -46,8 +46,8 @@ tags:
 
 ---
 <figure class="half">
-    <a href="/images/InterviewBit-SignUp/InterviewBit1.jpg"><img src="/images/InterviewBit-SignUp/InterviewBit1.jpg"></a>
-    <a href="/images/InterviewBit-SignUp/InterviewBit2.jpg"><img src="/imagesInterviewBit-SignUp/InterviewBit2.jpg"></a>
+    <a href="/images/InterviewBit-SignUp/scaler1.jpg"><img src="/images/InterviewBit-SignUp/scaler1.jpg"></a>
+    <a href="/images/InterviewBit-SignUp/scaler2.jpg"><img src="/imagesInterviewBit-SignUp/scaler2.jpg"></a>
     <figcaption> Scaler Academy(왼쪽) 그리고 제공하는 자료들(오른쪽) </figcaption>
 </figure>
 
