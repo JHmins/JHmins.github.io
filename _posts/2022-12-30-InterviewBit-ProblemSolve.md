@@ -45,11 +45,11 @@ tags:
 &nbsp; 특히 해외 사이트 회원가입 도중에 문제가 발생하면 인터넷에 찾아보는 것도 좋지만, 최고의 방법은 해당 사이트 고객 센터에 직접 문의하는 것 입니다! 인터넷에 올라와 있는 글 중에서는 오래되어 새로 업데이트 된 내용들도 많기 때문에, 고객센터에 이메일을 보내보는 등의 방법으로 직접 물어보는 방법이 낫다고 생각합니다. 지금 이 글을 읽고 계시는 분들도 만약 해외 사이트 이용시 문제 발생하면 바로 용기있게 고객센터로 문의할 수 있는 분이 되시면 좋겠습니다~! 
 
 ---
-<p align="center">
-    <img src="/images/InterviewBit-SignUp/scaler1.JPG" align="center" width="49%">
-    <img src="/imagesInterviewBit-SignUp/scaler2.JPG" align="center" width="49%">
-    <figcaption align="center"> Scaler Academy(왼쪽) 그리고 제공하는 자료들(오른쪽) </figcaption>
-</p>
+<figure class="half">
+    <a href="/images/InterviewBit-SignUp/scaler1.JPG"><img src="/images/InterviewBit-SignUp/scaler1.JPG"></a>
+    <a href="/images/InterviewBit-SignUp/scaler2.JPG"><img src="/imagesInterviewBit-SignUp/scaler2.JPG"></a>
+    <figcaption> Scaler Academy(왼쪽) 그리고 제공하는 자료들(오른쪽) </figcaption>
+</figure>
 
 +) 이 글을 쓴 이후로도 `Scaler Academy` 라는 해외 사이트를 가입할 일이 생겼는데, 알고보니 InterviewBit가 Scaler Academy의 모회사였습니다. 그렇지만 InterviewBit 계정으로 로그인은 안 되더군요. 그래서 새로 회원가입 과정을 거치는데, 서로 비슷한 회사라 그런지 역시나 이번에도 휴대폰 인증이 되지 않았습니다. 또 고객 센터에 물어보고 기다릴 생각을 하니 너무 답답해서, 이번에는 Talkatone 앱을 이용하여 미국 가상 번호를 받고, 그 번호를 통해 인증 받았습니다. 
 
