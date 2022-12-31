@@ -20,11 +20,11 @@ tags:
 
 &nbsp; 국내 사이트들 같은 경우에는 OKYY, DEVOCEAN, 팔만코딩경 같이 여러 개발자 커뮤니티들이 많으며 백준 알고리즘, 프로그래머스 등 관련 코딩 테스트 사이트들도 잘 활성화되어 있는 편입니다. 물론 저도 이러한 국내 개발자 커뮤니티와 코딩 테스트 사이트들을 이용하는 편이지만, 저는 주로 영어 공부도 같이 할겸 HackerRank, freeCodeCamp, LeetCode들을 이용하는 편입니다. 덤으로 데이터 공부를 위한 Kaggle, 해외 온라인 강좌 플랫폼 Coursera도 이용하지만, 이는 다음 번에 자세히 다루겠습니다.
 
-<figure class="half">
-    <a href="/images/InterviewBit-SignUp/interviewBit1.JPG"><img src="/images/InterviewBit-SignUp/interviewBit1.JPG"></a>
-    <a href="/images/InterviewBit-SignUp/interviewBit2.JPG"><img src="/imagesInterviewBit-SignUp/interviewBit2.JPG"></a>
-    <figcaption> InterviewBit(왼쪽) 그리고 제공하는 면접 자료들(오른쪽) </figcaption>
-</figure>
+<p align="center">
+    <img src="/images/InterviewBit-SignUp/interviewBit1.JPG" align="center" width="50%">
+    <img src="/imagesInterviewBit-SignUp/interviewBit2.JPG" align="center" width="50%">
+    <figcaption align="center"> InterviewBit(왼쪽) 그리고 제공하는 면접 자료들(오른쪽) </figcaption>
+</p>
 
 &nbsp; 어쨌거나 저는 커뮤니티를 통해 `InterviewBit` 사이트를 알게 되었고, InterviewBit 같은 경우에는 해외 다국적 기업들의 면접 출제 자료들이 많아 면접 대비에 좋다고 알게 되었습니다. 그래서 회원가입을 할려고 했는데 이 사이트는 휴대폰 인증이 필요하더군요? 그래서 제 휴대폰 번호를 통해 인증을 받으려고 했으나, 인증번호가 날아오지가 않더군요ㅠㅠ 그래서 이메일을 통해 고객 센터에 문의를 넣었습니다. 이메일을 넣은 뒤 4시간 뒤에 바로 메일로 답장이 왔습니다.
 
@@ -45,11 +45,11 @@ tags:
 &nbsp; 특히 해외 사이트 회원가입 도중에 문제가 발생하면 인터넷에 찾아보는 것도 좋지만, 최고의 방법은 해당 사이트 고객 센터에 직접 문의하는 것 입니다! 인터넷에 올라와 있는 글 중에서는 오래되어 새로 업데이트 된 내용들도 많기 때문에, 고객센터에 이메일을 보내보는 등의 방법으로 직접 물어보는 방법이 낫다고 생각합니다. 지금 이 글을 읽고 계시는 분들도 만약 해외 사이트 이용시 문제 발생하면 바로 용기있게 고객센터로 문의할 수 있는 분이 되시면 좋겠습니다~! 
 
 ---
-<figure class="half">
-    <a href="/images/InterviewBit-SignUp/scaler1.JPG"><img src="/images/InterviewBit-SignUp/scaler1.JPG"></a>
-    <a href="/images/InterviewBit-SignUp/scaler2.JPG"><img src="/imagesInterviewBit-SignUp/scaler2.JPG"></a>
-    <figcaption> Scaler Academy(왼쪽) 그리고 제공하는 자료들(오른쪽) </figcaption>
-</figure>
+<p align="center">
+    <img src="/images/InterviewBit-SignUp/scaler1.JPG" align="center" width="49%">
+    <img src="/imagesInterviewBit-SignUp/scaler2.JPG" align="center" width="49%">
+    <figcaption align="center"> Scaler Academy(왼쪽) 그리고 제공하는 자료들(오른쪽) </figcaption>
+</p>
 
 +) 이 글을 쓴 이후로도 `Scaler Academy` 라는 해외 사이트를 가입할 일이 생겼는데, 알고보니 InterviewBit가 Scaler Academy의 모회사였습니다. 그렇지만 InterviewBit 계정으로 로그인은 안 되더군요. 그래서 새로 회원가입 과정을 거치는데, 서로 비슷한 회사라 그런지 역시나 이번에도 휴대폰 인증이 되지 않았습니다. 또 고객 센터에 물어보고 기다릴 생각을 하니 너무 답답해서, 이번에는 Talkatone 앱을 이용하여 미국 가상 번호를 받고, 그 번호를 통해 인증 받았습니다. 
 
