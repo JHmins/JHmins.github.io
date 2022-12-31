@@ -21,8 +21,8 @@ tags:
 &nbsp; 국내 사이트들 같은 경우에는 OKYY, DEVOCEAN, 팔만코딩경 같이 여러 개발자 커뮤니티들이 많으며 백준 알고리즘, 프로그래머스 등 관련 코딩 테스트 사이트들도 잘 활성화되어 있는 편입니다. 물론 저도 이러한 국내 개발자 커뮤니티와 코딩 테스트 사이트들을 이용하는 편이지만, 저는 주로 영어 공부도 같이 할겸 HackerRank, freeCodeCamp, LeetCode들을 이용하는 편입니다. 덤으로 데이터 공부를 위한 Kaggle, 해외 온라인 강좌 플랫폼 Coursera도 이용하지만, 이는 다음 번에 자세히 다루겠습니다.
 
 <p align="center">
-    <img src="/images/InterviewBit-SignUp/interviewBit1.JPG" align="center" width="50%">
-    <img src="/imagesInterviewBit-SignUp/interviewBit2.JPG" align="center" width="50%">
+    <img src="/images/InterviewBit-SignUp/interviewBit1.JPG" align="center" width="49%">
+    <img src="/images/InterviewBit-SignUp/interviewBit2.JPG" align="center" width="49%">
     <figcaption align="center"> InterviewBit(왼쪽) 그리고 제공하는 면접 자료들(오른쪽) </figcaption>
 </p>
 
@@ -47,7 +47,7 @@ tags:
 ---
 <figure class="half">
     <a href="/images/InterviewBit-SignUp/scaler1.JPG"><img src="/images/InterviewBit-SignUp/scaler1.JPG"></a>
-    <a href="/images/InterviewBit-SignUp/scaler2.JPG"><img src="/imagesInterviewBit-SignUp/scaler2.JPG"></a>
+    <a href="/images/InterviewBit-SignUp/scaler2.JPG"><img src="/images/InterviewBit-SignUp/scaler2.JPG"></a>
     <figcaption> Scaler Academy(왼쪽) 그리고 제공하는 자료들(오른쪽) </figcaption>
 </figure>
 
