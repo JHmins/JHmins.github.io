@@ -48,7 +48,7 @@ tags:
 <figure class="half">
     <a href="/images/InterviewBit-SignUp/scaler1.JPG"><img src="/images/InterviewBit-SignUp/scaler1.JPG"></a>
     <a href="/images/InterviewBit-SignUp/scaler2.JPG"><img src="/images/InterviewBit-SignUp/scaler2.JPG"></a>
-    <figcaption> Scaler Academy(왼쪽) 그리고 제공하는 자료들(오른쪽) </figcaption>
+    <figcaption> Scaler Academy(위) 그리고 제공하는 자료들(아래) </figcaption>
 </figure>
 
 +) 이 글을 쓴 이후로도 `Scaler Academy` 라는 해외 사이트를 가입할 일이 생겼는데, 알고보니 InterviewBit가 Scaler Academy의 모회사였습니다. 그렇지만 InterviewBit 계정으로 로그인은 안 되더군요. 그래서 새로 회원가입 과정을 거치는데, 서로 비슷한 회사라 그런지 역시나 이번에도 휴대폰 인증이 되지 않았습니다. 또 고객 센터에 물어보고 기다릴 생각을 하니 너무 답답해서, 이번에는 Talkatone 앱을 이용하여 미국 가상 번호를 받고, 그 번호를 통해 인증 받았습니다. 
